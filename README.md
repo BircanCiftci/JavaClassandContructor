@@ -1,2 +1,2 @@
 # ikinciGunOdev
-Java class, contructor yapıları
+Java da class, contructor yapıları
